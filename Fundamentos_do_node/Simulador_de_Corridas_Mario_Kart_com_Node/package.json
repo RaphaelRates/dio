@@ -1,12 +1,16 @@
 {
   "name": "simulador_de_corridas_mario_kart_com_node",
   "version": "1.0.0",
+  "type": "module",
   "main": "index.js",
   "scripts": {
+    "dev": "node src/index.js",
+    "dev:cls": "cls && node src/index.js",
+    "dev:clear": "clear && node src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Raphael Rates or R3",
   "license": "ISC",
   "description": ""
 }
