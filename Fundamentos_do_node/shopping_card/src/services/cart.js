@@ -50,7 +50,7 @@ export async function deleteItem(useCart, name) {
  */
 export async function clear(useCart) {
     useCart.length = 0;
-}
+}""
 
 /**
  * 
