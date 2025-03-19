@@ -1,0 +1,18 @@
+[
+    {
+        "id": "00001",
+        "podcats_name": "Flow",
+        "videoID": "kBYXJGooOz0",
+        "cover": "num tem amigo se vira",
+        "link": "https://www.youtube.com/watch?v=kBYXJGooOz0&pp=ygUEZmxvdw%3D%3D",
+        "categories": ["bebida", "podcasts", "filosofia"]
+    },
+    {
+        "id": "00001",
+        "podcats_name": "Podpa",
+        "videoID": "kBYXJGooOz0",
+        "cover": "num tem amigo se vira",
+        "link": "https://www.youtube.com/watch?v=kBYXJGooOz0&pp=ygUEZmxvdw%3D%3D",
+        "categories": ["bebida", "podcasts", "filosofia"]
+    }
+]
